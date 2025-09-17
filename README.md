@@ -1,2 +1,12 @@
-# Aegis-Ai-Cyber-app
-AegisAI is your smart cyber shield! Predict threats, analyze configs, and simulate attacks—all in one sleek dashboard. Built with Streamlit, it makes complex cyber defense easy, visual, and fun. Stay ahead of hackers with real-time alerts, global insights, and personalized recommendations. Defense made simple!
+# AegisAI Cyber Defense
+
+This is a cool app that helps you protect against cyber attacks. You can see attack predictions, upload your system info for checking, and try out attack simulations to learn how to stay safe.
+
+Made with Python and Streamlit for easy use.
+
+Run it by typing:
+
+streamlit run main.py
+
+Have fun staying safe!
+
